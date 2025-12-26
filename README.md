@@ -4,9 +4,8 @@ The **Off-Grid Tracker System** is a wearable-based tracking and safety solution
 
 This project is especially suitable for **disaster zones, remote areas, military regions, mines, forests, and off-grid industrial sites**.
 
- 🎬Off-Grid Tracking System (Google Drive Video):🎬
- 
-📁https://drive.google.com/file/d/1ISpZWWWw1rg_WSsy-IhYYVLMGUQDeksu/view?usp=drive_link
+**🎬Off-Grid Tracking System** (Google Drive Video):
+ 📁https://drive.google.com/file/d/1ISpZWWWw1rg_WSsy-IhYYVLMGUQDeksu/view?usp=drive_link
 
 ---
 
@@ -331,7 +330,7 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 ---
 
-##✔️  ***ROUND 1 FEATURES COMPLETED***
+##✔️  **ROUND 1 FEATURES COMPLETED**
 
 
 * **1.SIGNAL COVERAGE – Up to 10 km**
@@ -352,7 +351,7 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 ---
 
-##***⏭️ ROUND 2 EXPECTED IMPROVEMENTS***
+##**⏭️ ROUND 2 EXPECTED IMPROVEMENTS**
 
 
 ### **1. GPS Location Integration**
