@@ -3,8 +3,10 @@
 The **Off-Grid Tracker System** is a wearable-based tracking and safety solution designed to **monitor people and transmit GPS data without relying on cellular networks, Wi-Fi, or internet services**. The system uses **LoRa communication**, **solar-powered towers**, and **wearable watches** to enable reliable tracking, emergency alerts, and identification in remote or disconnected environments.
 
 This project is especially suitable for **disaster zones, remote areas, military regions, mines, forests, and off-grid industrial sites**.
- 🎬 **Off-Grid Tracking System (Google Drive Video):🎬 **  
-▶️https://drive.google.com/drive/folders/1wTK9QqFadVSjrsaqQbM4IqSJoxa_0e4v?usp=sharing
+
+ 🎬Off-Grid Tracking System (Google Drive Video):🎬
+ 
+📁https://drive.google.com/file/d/1ISpZWWWw1rg_WSsy-IhYYVLMGUQDeksu/view?usp=drive_link
 
 ---
 
@@ -170,16 +172,16 @@ This enables quick identification of missing users and ensures that trekkers rem
 3. The control panel receives and displays the alert
 4. Rescue teams are notified with the **exact last known location**
 
-## *Future enhancement:* Drones may be deployed to deliver medical supplies or emergency equipment to the user’s location.(WORKING ON DRONE ALSO) 📁VIDEO ATTACHED
-
----
-
 ### **6. Internet-Independent Operation**
 
 * The entire system operates **without internet, Wi-Fi, or mobile networks**
 * **LoRa technology** enables long-range, low-power communication
 * Suitable for **remote, mountainous, and disaster-prone environments**
 
+---
+
+## *Future enhancement:* Drones may be deployed to deliver medical supplies or emergency equipment to the user’s location.(WORKING ON DRONE ALSO)
+📁VIDEO ATTACHED:https://drive.google.com/file/d/1dyMqwY5t-to7OFGztk3n1JHkRVxIuUXC/view?usp=sharing
 ---
 
 ##  System Flowchart (Operational Workflow)
@@ -329,7 +331,7 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 ---
 
-##✔️  ROUND 1 FEATURES COMPLETED
+##✔️  ***ROUND 1 FEATURES COMPLETED***
 
 
 * **1.SIGNAL COVERAGE – Up to 10 km**
@@ -350,7 +352,7 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 ---
 
-##⏭️ ROUND 2 EXPECTED IMPROVEMENTS
+##***⏭️ ROUND 2 EXPECTED IMPROVEMENTS***
 
 
 ### **1. GPS Location Integration**
