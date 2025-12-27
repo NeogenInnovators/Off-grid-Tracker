@@ -184,47 +184,10 @@ This enables quick identification of missing users and ensures that trekkers rem
 ---
 
 ##  System Flowchart (Operational Workflow)
+![WhatsApp Image 2025-12-27 at 6 42 51 PM](https://github.com/user-attachments/assets/9da709d4-020b-4930-a0da-a71775002389)
 
 ```
-Start
- │
- ├── System Power ON
- │     (Smart Watch, Towers/Poles, Control Panel)
- │
- ├── User Wears Smart Tracking Watch
- │     (NFC/RFID-based Unique Identification)
- │
- ├── User Starts Trekking / Movement
- │
- ├── User Approaches and Crosses Tower (Pole) Checkpoint
- │
- ├── Tower Reads NFC/RFID Tag from Watch
- │
- ├── Tower Transmits Data via LoRa
- │     (User ID + Tower ID + Timestamp)
- │
- ├── Control Panel Receives Data
- │     (ESP32 + LoRa Module)
- │
- ├── Control Panel Processes & Analyzes Data
- │
- ├── OLED Display Updates User Status
- │     (Last Crossed Tower Location)
- │
- ├── Is Emergency (SOS) Button Pressed?
- │      │
- │      ├── YES
- │      │     ├── SOS Alert Sent via LoRa
- │      │     ├── Control Panel Receives Alert
- │      │     ├── GPS Coordinates (Latitude & Longitude) Displayed
- │      │     ├── Authorities / Rescue Team Notified
- │      │     └── Rescue Operation Initiated
- │      │
- │      └── NO
- │            ├── Continue Normal Tracking
- │            └── Wait for Next Tower Crossing
- │
- └── End
+
 ```
 ---
 
@@ -234,54 +197,10 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 
 
+![WhatsApp Image 2025-12-27 at 5 57 33 PM](https://github.com/user-attachments/assets/8c5c94e0-b22a-4090-9601-f7ffd02d10d8)
 
 ```
-+--------+
-|  User  |
-+--------+
-     |
-     | NFC/RFID ID, SOS Button Press
-     v
-+---------------------------+
-| Smart Tracking Watch      |
-| (Arduino Nano + GPS +     |
-|  LoRa Module)             |
-+---------------------------+
-     |
-     | User ID, GPS Data, SOS Signal
-     v
-+---------------------------+
-| Pole Checkpoint           |
-| (ESP32 + NFC Reader +     |
-|  LoRa Module)             |
-+---------------------------+
-     |
-     | User ID, Pole ID, Timestamp
-     v
-+---------------------------+
-| LoRa Communication Layer  |
-| (Long-Range, Low-Power)   |
-+---------------------------+
-     |
-     | Secure Wireless Data
-     v
-+--------------------------------+
-| Control Panel                  |
-| (ESP32 + LoRa + OLED Display)  |
-+--------------------------------+
-     |
-     | Alerts, Location, Status
-     v
-+-------------------------------+
-| Emergency Decision Module     |
-| (SOS Verification & Analysis) |
-+-------------------------------+
-     |
-     | Last Checkpoint + GPS Data
-     v
-+-------------------------------+
-| Rescue Team / Authorities     |
-+-------------------------------+
+
 ```
 
 ---
