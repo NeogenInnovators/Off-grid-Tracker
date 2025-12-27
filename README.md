@@ -184,7 +184,8 @@ This enables quick identification of missing users and ensures that trekkers rem
 ---
 
 ##  System Flowchart (Operational Workflow)
-![WhatsApp Image 2025-12-27 at 6 42 51 PM](https://github.com/user-attachments/assets/9da709d4-020b-4930-a0da-a71775002389)
+
+![zaid](https://github.com/user-attachments/assets/6d1ebb05-a6aa-4f37-b3a9-59b69cce613a)
 
 ---
 
