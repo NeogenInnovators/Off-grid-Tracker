@@ -186,9 +186,6 @@ This enables quick identification of missing users and ensures that trekkers rem
 ##  System Flowchart (Operational Workflow)
 ![WhatsApp Image 2025-12-27 at 6 42 51 PM](https://github.com/user-attachments/assets/9da709d4-020b-4930-a0da-a71775002389)
 
-```
-
-```
 ---
 
 ##  Data Flow Diagram (DFD)
@@ -198,10 +195,6 @@ The Data Flow Diagram (DFD) represents how data moves through the Off-Grid Track
 
 
 ![WhatsApp Image 2025-12-27 at 5 57 33 PM](https://github.com/user-attachments/assets/8c5c94e0-b22a-4090-9601-f7ffd02d10d8)
-
-```
-
-```
 
 ---
 
